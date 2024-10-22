@@ -1,0 +1,8 @@
+.productgrid {
+  display: grid;
+  background-color: #b8e6bc;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  padding:20px;
+  text-align: center;
+}

@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    background-color: green;
+    margin: 0;
+    padding: 0;
+}
+h3{
+    text-align: left;
+}
+h2{
+    text-align: right;
+}
+.kom{
+    border: 1px solid #40664b;
+    background-color: #80b084;
+}
+img{
+    width: 600px;
+    height: 600px;
+}
